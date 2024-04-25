@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+         <flores>
+        <id> 1 </id>
+        <nome> Orquídeas </nome>
+        <valor> 150,00 </valor>
+        <status> Disponivel </status>
+      </flores> <flores>
+        <id> 2 </id>
+        <nome> Copo De Leite </nome>
+        <valor> 60,00 </valor>
+        <status> Disponivel </status>
+      </flores> <flores>
+        <id> 3 </id>
+        <nome> Begonia </nome>
+        <valor> 50,00 </valor>
+        <status> Disponivel </status>
+      </flores> <flores>
+        <id> 4 </id>
+        <nome> Tulipas </nome>
+        <valor> 45,00 </valor>
+        <status> Disponivel </status>
+      </flores> <flores>
+        <id> 5 </id>
+        <nome> Mini Margarida</nome>
+        <valor> 30,00 </valor>
+        <status> Disponivel </status>
+      </flores> <flores>
+        <id> 6 </id>
+        <nome> Antúrio </nome>
+        <valor> 50,00 </valor>
+        <status> </status>
+      </flores> <flores>
+        <id> 7 </id>
+        <nome> Violeta </nome>
+        <valor> 25,00 </valor>
+        <status> Disponivel </status>
+      </flores> <flores>
+        <id> 8 </id>
+        <nome> Girassol </nome>
+        <valor> 15,00 </valor>
+        <status> Disponivel </status>
+      </flores> <flores>
+        <id> 9 </id>
+        <nome> Boca De Leão </nome>
+        <valor> 10,00 </valor>
+        <status> Disponivel </status>
+      </flores> <flores>
+        <id> 10 </id>
+        <nome> Lavanda </nome>
+        <valor> 20,00 </valor>
+        <status> Disponivel </status>
+      </flores> <flores>
+        <id> 11 </id>
+        <nome> Rosa Rose </nome>
+        <valor> 10,00 </valor>
+        <status> Disponivel </status>
+      </flores> <flores>
+        <id> 12 </id>
+        <nome> Rosa Vermelha </nome>
+        <valor> 10,00 </valor>
+        <status> Disponivel </status>
+      </flores> <flores>
+        <id> 13 </id>
+        <nome> Rosa Branca </nome>
+        <valor> 10,00 </valor>
+        <status> Disponivel </status>
+      </flores> <flores>
+        <id> 14 </id>
+        <nome> Rosa Amarela </nome>
+        <valor> 10,00</valor>
+        <status> Disponivel </status>
+      </flores> <flores>
+        <id> 15 </id>
+        <nome> Lirio </nome>
+        <valor> 40,00 </valor>
+        <status> Disponivel </status>
+      </flores> <flores>
+        <id> 16 </id>
+        <nome> Buque De Rosas </nome>
+        <valor> 200,00 </valor>
+        <status>Disponivel  </status>
+      </flores> <flores>
+        <id> 17 </id>
+        <nome> Rosa Ave Maria</nome>
+        <valor> 10,00 </valor>
+        <status> Disponivel </status>
+      </flores> <flores>
+        <id> 18 </id>
+        <nome> Mosquitinho </nome>
+        <valor> 5,00 </valor>
+        <status> Disponivel </status>
+      </flores> <flores>
+        <id> 19 </id>
+        <nome> Cravo </nome>
+        <valor> 15,00 </valor>
+        <status> Disponivel </status>
+      </flores> <flores>
+        <id> 20 </id>
+        <nome> Lisianto </nome>
+        <valor> 30,00 </valor>
+        <status> Disponivel </status>
+      </flores> <flores>
+        <id> 21 </id>
+        <nome> Narciso </nome>
+        <valor> 35,00 </valor>
+        <status> Disponivel </status>
+      </flores> <flores>
+        <id> 22 </id>
+        <nome> Begonia </nome>
+        <valor> 45,00 </valor>
+        <status> Disponivel </status>
+      </flores> <flores>
+        <id> 23 </id>
+        <nome> Dalia </nome>
+        <valor> 30,00 </valor>
+        <status> Disponivel </status>
+      </flores>v
