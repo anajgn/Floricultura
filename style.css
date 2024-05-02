@@ -1,1 +1,65 @@
+corpo{
+   cor de fundo: Rgb(221, 220, 219);
+}
+#jogo de cartas{
+    
+    
+}
+.logotipo{
+    altura: Automático;
+    Largura: 100%;
+    margem: 0 Automático; 
+}
 
+.foto{
+    altura: Automático;
+    Largura: 95%;
+    margem: 0 Automático;
+    raio-borda: 20Px;
+    caixa-sombra: RGBA(0, 0, 0, 0.15) 1.95Px 1.95Px 2.6Px;
+}
+
+.cartão{
+    imagem de fundo: URL("pergaminho.jpg");
+    Largura: 300Px;
+    alinhamento de texto: centro;
+    família de fontes: Verdana;
+    caixa-sombra: RGBA(0, 0, 0, 0.15) 1.95Px 1.95Px 2.6Px;
+    exposição: bloco em linha;
+    margem: 5Px;
+    raio-borda: 20Px;
+    
+}
+.cartão .nomo{
+    peso da fonte: ousado;
+    tamanho da fonte: 150%;
+}
+.Rec{
+    peso da fonte: ousado;
+    tamanho da fonte: 150%;
+}
+.titulo{
+    margem: 20%;
+    tamanho da fonte: 300%;
+    alinhamento de texto: centro;
+    família de fontes: Impacto;
+}
+
+.bagas{
+    altura: Automático;
+    Largura: 10%;
+    margem: 0%;
+}
+.Procurado{
+    alinhamento de texto: centro;
+    família de fontes: Impacto;
+    tamanho da fonte: 200%;
+    margem: 0%;
+}
+p{
+    margem: 0%;
+}
+um {
+    texto-decoração: nenhum;
+    texto-decoração-cor: preto;
+}
