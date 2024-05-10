@@ -3,9 +3,9 @@ body{
 }
 
 .logo{
-   height: 250px;
-    width: 150px;
-    margin: 0 auto
+    height: auto;
+    width: 100%;
+    margin: 0 auto; 
 }
 
 .foto{
