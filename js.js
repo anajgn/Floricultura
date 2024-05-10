@@ -20,7 +20,7 @@ $.ajax(url)
             $(xml).find("pirata").each(function(){
                 var pos = parseInt($(this).find("id").text())
                 if(id == pos){
-                $("#individual").append('<div class="card"><p class="flores">Flores</p> <img class="foto"src="'+ $(this).find("id").text() +'.jpg"><p class="vivo">disponivel ou esgotado</p> <p class="nome">'+ $(this).find("nome").text() +'</p> <p class="rec"> <img class="berrys" src="Berrys.png">'+ $(this).find("recompensa").text()+' </p><p> Status:'+ $(this).find("status").text()+' </p><\div>');
+                $("#individual").append('<div class="card"><p class="florea">Floreso</p> <img class="foto"src="'+ $(this).find("id").text() +'.jpg"><p class="vivo">disponivel ou esgotado</p> <p class="nome">'+ $(this).find("nome").text() +'</p> <p class="rec"> <img class="berrys" src="Berrys.png">'+ $(this).find("recompensa").text()+' </p><p> Status:'+ $(this).find("status").text()+' </p><\div>');
                 }
             });
         
